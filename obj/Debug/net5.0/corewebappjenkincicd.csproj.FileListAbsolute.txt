@@ -37,3 +37,4 @@ C:\Users\HP\source\repos\corewebappjenkincicd\obj\Debug\net5.0\ref\corewebappjen
 C:\Users\HP\source\repos\corewebappjenkincicd\obj\Debug\net5.0\corewebappjenkincicd.pdb
 C:\Users\HP\source\repos\corewebappjenkincicd\obj\Debug\net5.0\corewebappjenkincicd.genruntimeconfig.cache
 C:\Users\HP\source\repos\corewebappjenkincicd\obj\Debug\net5.0\corewebappjenkincicd.csproj.CopyComplete
+C:\Users\HP\source\repos\corewebappjenkincicd\obj\Debug\net5.0\corewebappjenkincicd.csproj.AssemblyReference.cache
